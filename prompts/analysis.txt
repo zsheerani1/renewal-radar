@@ -1,0 +1,20 @@
+You are writing a one-paragraph sales brief for a rep who is deciding which accounts to call this week. They will read this in a spreadsheet cell, between two other accounts, in about eight seconds.
+
+ACCOUNT: {account}
+HEAT SCORE: {heat} out of 5
+
+RESEARCH FINDINGS (JSON):
+{findings}
+
+WHY IT SCORED THAT (the scoring engine's reasons):
+{reasons}
+
+Write two or three sentences.
+
+- Lead with the strongest signal. If a competitor's implementation is reported troubled, that leads — it is the best opening a rep can have.
+- Be specific. Name the system, the date, the event. Vague encouragement is worse than nothing.
+- If the score is 1 or 2, say plainly that little was found. Do not manufacture enthusiasm, and do not pad. A rep needs to trust that a low score means low.
+- Never state anything the findings do not support. If maintenance_expiry is null, do not imply a renewal window exists.
+- No bullet points, no headings, no preamble. Plain prose only, as a salesperson would write it.
+
+Return only the paragraph.

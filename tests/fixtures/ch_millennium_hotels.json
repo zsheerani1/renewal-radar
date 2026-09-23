@@ -1,0 +1,166 @@
+{
+ "query": "Millennium Hotels",
+ "status": "ok",
+ "candidates": [
+  {
+   "company_number": "03141048",
+   "title": "MILLENNIUM HOTELS LIMITED",
+   "company_status": "active",
+   "company_type": "ltd",
+   "date_of_creation": "1995-12-22",
+   "address": "Corporate Headquarters, Scarsdale Place, Kensington, London, United Kingdom, W8 5SY"
+  },
+  {
+   "company_number": "04601112",
+   "title": "MILLENNIUM HOTELS & RESORTS SERVICES LIMITED",
+   "company_status": "active",
+   "company_type": "ltd",
+   "date_of_creation": "2002-11-26",
+   "address": "Corporate Headquarters, Scarsdale Place, Kensington, London, United Kingdom, W8 5SY"
+  },
+  {
+   "company_number": "08844747",
+   "title": "MILLENNIUM HOTELS EUROPE HOLDINGS LIMITED",
+   "company_status": "active",
+   "company_type": "ltd",
+   "date_of_creation": "2014-01-14",
+   "address": "Corporate Headquarters, Scarsdale Place, Kensington, London, United Kingdom, W8 5SY"
+  },
+  {
+   "company_number": "03691885",
+   "title": "MILLENNIUM HOTELS LONDON LIMITED",
+   "company_status": "active",
+   "company_type": "ltd",
+   "date_of_creation": "1999-01-05",
+   "address": "Corporate Headquarters, Scarsdale Place, Kensington, London, United Kingdom, W8 5SY"
+  },
+  {
+   "company_number": "08599282",
+   "title": "MILLENNIUM HOTELS (WEST LONDON) LIMITED",
+   "company_status": "active",
+   "company_type": "ltd",
+   "date_of_creation": "2013-07-05",
+   "address": "Corporate Headquarters, Scarsdale Place, Kensington, London, United Kingdom, W8 5SY"
+  },
+  {
+   "company_number": "08891908",
+   "title": "MILLENNIUM HOTELS (WEST LONDON) MANAGEMENT LIMITED",
+   "company_status": "active",
+   "company_type": "ltd",
+   "date_of_creation": "2014-02-12",
+   "address": "Corporate Headquarters, Scarsdale Place, Kensington, London, United Kingdom, W8 5SY"
+  },
+  {
+   "company_number": "03004377",
+   "title": "MILLENNIUM & COPTHORNE HOTELS LIMITED",
+   "company_status": "active",
+   "company_type": "ltd",
+   "date_of_creation": "1994-12-22",
+   "address": "Corporate Headquarters, Scarsdale Place, Kensington, London, United Kingdom, W8 5SY"
+  },
+  {
+   "company_number": "16606231",
+   "title": "THE ACADEMY OF THE THIRD MILLENNIUM LTD",
+   "company_status": "active",
+   "company_type": "ltd",
+   "date_of_creation": "2025-07-25",
+   "address": "45 , Silverstream House Fitzroy Street, London, United Kingdom, W1T 6EB"
+  },
+  {
+   "company_number": "03902932",
+   "title": "ACCOUNTANCY AND TAXATION MILLENNIUM LIMITED",
+   "company_status": "active",
+   "company_type": "ltd",
+   "date_of_creation": "2000-01-06",
+   "address": "1 Sherwood Avenue, Streatham, London, SW16 5EW"
+  },
+  {
+   "company_number": "07410918",
+   "title": "ALLINGTON MILLENNIUM GREEN LIMITED",
+   "company_status": "active",
+   "company_type": "private-limited-guarant-nsc",
+   "date_of_creation": "2010-10-18",
+   "address": "167-169 Great Portland Street, 5th Floor, London, England, W1W 5PF"
+  },
+  {
+   "company_number": "03314558",
+   "title": "ALL SAINTS MILLENNIUM TRUST (DARLINGTON) LIMITED",
+   "company_status": "active",
+   "company_type": "private-limited-guarant-nsc",
+   "date_of_creation": "1997-02-07",
+   "address": "The Parish Office All Saints Church, Ravensdale Road, Darlington, Co Durham, DL3 8DT"
+  },
+  {
+   "company_number": "03883207",
+   "title": "AMBAR MILLENNIUM PRODUCTS LIMITED",
+   "company_status": "active",
+   "company_type": "ltd",
+   "date_of_creation": "1999-11-25",
+   "address": "5 Oakfield Road, Bourne End, Buckinghamshire, SL8 5QR"
+  },
+  {
+   "company_number": "11168592",
+   "title": "ARISE MILLENNIUM CONSTRUCTION LIMITED",
+   "company_status": "active",
+   "company_type": "ltd",
+   "date_of_creation": "2018-01-24",
+   "address": "Glebe Business Park, Lunts Heath Road, Widnes, Cheshire, United Kingdom, WA8 5SQ"
+  },
+  {
+   "company_number": "08368309",
+   "title": "AUDLEY MILLENNIUM GREEN LIMITED",
+   "company_status": "active",
+   "company_type": "private-limited-guarant-nsc",
+   "date_of_creation": "2013-01-21",
+   "address": "Wood Lane Community Centre Apedale Road, Wood Lane, Stoke-On-Trent, England, ST7 8PH"
+  },
+  {
+   "company_number": "04120299",
+   "title": "BLOCK A MILLENNIUM DRIVE MANAGEMENT COMPANY LIMITED",
+   "company_status": "active",
+   "company_type": "ltd",
+   "date_of_creation": "2000-12-01",
+   "address": "Streets Suite B1, Building 210 Butterfield, Great Marlings, Luton, Bedfordshire, United Kingdom, LU2 8DL"
+  },
+  {
+   "company_number": "06268779",
+   "title": "CANTAB MILLENNIUM SERVICES LTD",
+   "company_status": "active",
+   "company_type": "ltd",
+   "date_of_creation": "2007-06-05",
+   "address": "95 Mill Road, Cambridge, England, CB1 2AW"
+  },
+  {
+   "company_number": "09870880",
+   "title": "CC MILLENNIUM LTD",
+   "company_status": "active",
+   "company_type": "ltd",
+   "date_of_creation": "2015-11-13",
+   "address": "Britannia Court, 5 Moor Street, Worcester, England, WR1 3DB"
+  },
+  {
+   "company_number": "LP007329",
+   "title": "CHAPMAN SCHOFIELD MILLENNIUM LIMITED PARTNERSHIP",
+   "company_status": "active",
+   "company_type": "limited-partnership",
+   "date_of_creation": "2000-12-21",
+   "address": "6 Kipling Place, St Neotts, Cambridgeshire, PE19 7RG"
+  },
+  {
+   "company_number": "07796767",
+   "title": "CHAPPEL MILLENNIUM GREEN LIMITED",
+   "company_status": "active",
+   "company_type": "private-limited-guarant-nsc",
+   "date_of_creation": "2011-10-04",
+   "address": "Beech House Colchester Road, Chappel, Colchester, England, CO6 2DQ"
+  },
+  {
+   "company_number": "SC224070",
+   "title": "COMRIE MILLENNIUM FOOTPATH ASSOCIATION",
+   "company_status": "converted-closed",
+   "company_type": "converted-or-closed",
+   "date_of_creation": "2001-10-09",
+   "address": "Tigh-Na-Blair Farm, Comrie , Perthshire, Comrie, Crieff, Perthshire, PH6 2JQ"
+  }
+ ]
+}

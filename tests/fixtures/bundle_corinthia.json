@@ -1,0 +1,426 @@
+{
+ "account": "Corinthia Hotels",
+ "domain": "mfrench@corinthia.com",
+ "country": "mt",
+ "assembled_at": "2026-09-23",
+ "sources": {
+  "companies_house": {
+   "status": "ok",
+   "detail": "stored 2026-09-23",
+   "meta": {}
+  },
+  "companies_house_officers": {
+   "status": "ok",
+   "detail": null,
+   "meta": {}
+  },
+  "companies_house_filings": {
+   "status": "ok",
+   "detail": null,
+   "meta": {}
+  },
+  "google_news": {
+   "status": "ok",
+   "detail": "\"Corinthia Hotels\" (CFO OR \"chief financial officer\" OR \"finance director\" OR restructuring OR acquisition OR merger OR redundancies OR \"finance transformation\") when:1y  [hl=en-GB gl=MT ceid=MT:en]",
+   "meta": {
+    "articles_retrieved": 10,
+    "articles_matched": 7,
+    "urls_resolved": 7,
+    "match_rate": 0.7,
+    "needs_review": false
+   }
+  },
+  "adzuna": {
+   "status": "no_coverage",
+   "detail": "no Adzuna index for 'mt'",
+   "meta": {}
+  },
+  "adzuna_finance_roles": {
+   "status": "no_coverage",
+   "detail": "no Adzuna index for 'mt'",
+   "meta": {}
+  },
+  "grounded_search": {
+   "status": "ok",
+   "detail": "0 claim(s) dropped for missing URL",
+   "meta": {
+    "claims": 4,
+    "urls_resolved": 4,
+    "claims_dropped": 0
+   }
+  }
+ },
+ "companies_house": {
+  "company_number": "11874049",
+  "matched_name": "CORINTHIA HOTELS (UK) LIMITED",
+  "resolution_confidence": "high",
+  "confirmed_by": null,
+  "needs_confirmation": false,
+  "candidates": [],
+  "officers": [
+   {
+    "name": "FENECH, Clinton",
+    "role": "director",
+    "appointed_on": "2019-03-11",
+    "resigned_on": null,
+    "occupation": null,
+    "nationality": "Maltese",
+    "appointed_months_ago": 90,
+    "resigned_months_ago": null,
+    "recent_change": false
+   },
+   {
+    "name": "IZZO, Michael Anthony",
+    "role": "director",
+    "appointed_on": "2019-03-11",
+    "resigned_on": null,
+    "occupation": null,
+    "nationality": "Maltese,British",
+    "appointed_months_ago": 90,
+    "resigned_months_ago": null,
+    "recent_change": false
+   },
+   {
+    "name": "NAUDI, Simon",
+    "role": "director",
+    "appointed_on": "2019-03-11",
+    "resigned_on": null,
+    "occupation": null,
+    "nationality": "Maltese",
+    "appointed_months_ago": 90,
+    "resigned_months_ago": null,
+    "recent_change": false
+   }
+  ],
+  "finance_officers": [],
+  "notable_filings": [
+   {
+    "type": "AA",
+    "date": "2025-08-13",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-small",
+    "months_ago": 13
+   },
+   {
+    "type": "AA",
+    "date": "2024-09-30",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-small",
+    "months_ago": 24
+   },
+   {
+    "type": "PSC05",
+    "date": "2023-09-05",
+    "category": "persons-with-significant-control",
+    "description": "change-to-a-person-with-significant-control",
+    "months_ago": 36
+   },
+   {
+    "type": "PSC02",
+    "date": "2023-09-04",
+    "category": "persons-with-significant-control",
+    "description": "notification-of-a-person-with-significant-control",
+    "months_ago": 36
+   },
+   {
+    "type": "PSC07",
+    "date": "2023-09-04",
+    "category": "persons-with-significant-control",
+    "description": "cessation-of-a-person-with-significant-control",
+    "months_ago": 36
+   },
+   {
+    "type": "PSC05",
+    "date": "2023-08-09",
+    "category": "persons-with-significant-control",
+    "description": "change-to-a-person-with-significant-control",
+    "months_ago": 37
+   },
+   {
+    "type": "AA",
+    "date": "2023-07-07",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-small",
+    "months_ago": 38
+   },
+   {
+    "type": "MR01",
+    "date": "2022-09-02",
+    "category": "mortgage",
+    "description": "mortgage-create-with-deed-with-charge-number-charge-creation-date",
+    "months_ago": 48
+   },
+   {
+    "type": "AA",
+    "date": "2022-07-22",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-full",
+    "months_ago": 50
+   },
+   {
+    "type": "SH01",
+    "date": "2021-11-23",
+    "category": "capital",
+    "description": "capital-allotment-shares",
+    "months_ago": 58
+   },
+   {
+    "type": "AA",
+    "date": "2021-08-20",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-full",
+    "months_ago": 61
+   },
+   {
+    "type": "AA",
+    "date": "2020-08-19",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-full",
+    "months_ago": 73
+   },
+   {
+    "type": "RESOLUTIONS",
+    "date": "2019-03-30",
+    "category": "resolution",
+    "description": "resolution",
+    "months_ago": 90
+   },
+   {
+    "type": "CONNOT",
+    "date": "2019-03-30",
+    "category": "change-of-name",
+    "description": "change-of-name-notice",
+    "months_ago": 90
+   },
+   {
+    "type": "AA01",
+    "date": "2019-03-14",
+    "category": "accounts",
+    "description": "change-account-reference-date-company-current-shortened",
+    "months_ago": 90
+   }
+  ],
+  "source_url": "https://find-and-update.company-information.service.gov.uk/company/11874049",
+  "officers_url": "https://find-and-update.company-information.service.gov.uk/company/11874049/officers",
+  "filings_url": "https://find-and-update.company-information.service.gov.uk/company/11874049/filing-history",
+  "url_status": "resolved"
+ },
+ "news": [
+  {
+   "title": "Corinthia sells big stake in Lisbon - Hotel Investment Today",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNMG4xa2M3T05SaVZiVnhFU3ZEZEZUc2RwUzU4M1RoQ2U4S19IcTlyQ1hPOXBtQXNwVzJHWjk3WWo5a1hYMkJMYlRkTGVkU004TE0zbE5RdjhBcEJiTmlkWFZwck53LWdiRTVHUFNOS0RqTEFIU0pXOGphVlBucjNZa3M3S1A4Um54dVF3Mk10alVJUEtVTF9sakJTWmI4OVllM2NIZA?oc=5",
+   "domain": "www.hotelinvestmenttoday.com",
+   "seendate": "Mon, 19 Jan 2026 08:00:00 GMT",
+   "source": "Hotel Investment Today",
+   "language": "en-GB",
+   "sourcecountry": "MT",
+   "name_match": "exact",
+   "original_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNMG4xa2M3T05SaVZiVnhFU3ZEZEZUc2RwUzU4M1RoQ2U4S19IcTlyQ1hPOXBtQXNwVzJHWjk3WWo5a1hYMkJMYlRkTGVkU004TE0zbE5RdjhBcEJiTmlkWFZwck53LWdiRTVHUFNOS0RqTEFIU0pXOGphVlBucjNZa3M3S1A4Um54dVF3Mk10alVJUEtVTF9sakJTWmI4OVllM2NIZA?oc=5",
+   "resolved_url": "https://www.hotelinvestmenttoday.com/Deals/Mergers-and-Acquistions/Corinthia-sells-big-stake-in-Lisbon",
+   "url_status": "resolved",
+   "http_status": 403,
+   "months_ago": 8
+  },
+  {
+   "title": "Orion completes acquisition of majority stake in Corinthia Hotel Lisbon - Hospitality Net",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQQmhDQlEwYnJ2N0FLRDJrQU15TUtVQm9DTDZIR011aGo4WDZmQVN4ZVdRTDJIS0xzd0dzS0NaalhSUDROWnRWZkpUQndQUUZlRXJtRUNoTks1ZzNKQ0NCdUZtbmthTXFmSHpJSEFhTFl5d3VPTllOLVJxRld1M2RNZmtyQk5hMEhzYmR5dTNMWVFPSXF3ejY3RHB3cTNzQjhwYXloa0tRektWbFlSMXVyLWo0RzhRUQ?oc=5",
+   "domain": "www.hospitalitynet.org",
+   "seendate": "Tue, 07 Apr 2026 07:00:00 GMT",
+   "source": "Hospitality Net",
+   "language": "en-GB",
+   "sourcecountry": "MT",
+   "name_match": "exact",
+   "original_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQQmhDQlEwYnJ2N0FLRDJrQU15TUtVQm9DTDZIR011aGo4WDZmQVN4ZVdRTDJIS0xzd0dzS0NaalhSUDROWnRWZkpUQndQUUZlRXJtRUNoTks1ZzNKQ0NCdUZtbmthTXFmSHpJSEFhTFl5d3VPTllOLVJxRld1M2RNZmtyQk5hMEhzYmR5dTNMWVFPSXF3ejY3RHB3cTNzQjhwYXloa0tRektWbFlSMXVyLWo0RzhRUQ?oc=5",
+   "resolved_url": "https://www.hospitalitynet.org/news/4131793/orion-completes-acquisition-of-majority-stake-in-corinthia-hotel-lisbon",
+   "url_status": "resolved",
+   "http_status": 403,
+   "months_ago": 5
+  },
+  {
+   "title": "IHI sells 72% stake in Corinthia Hotel Lisbon to Orion fund - IPE Real Assets",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQSmRoWHc3UmNLWXdRTWJId1F6a1ZmaUJ5VnBGam9tdzFfem5YVXp3dXk1RzlCdDdwM1ZQZUx0UkpsLUx5UmVkZm1KTTQ1b1ViSjZReEoyZ0xPX0xibmlpbXo3czJVV1I1eEtIRlFEaV9rQVlqWXlpOFhlTWpHZDhycXVBS1owclc1SllHTHVkZXNuMzQzQ2ZKdHhLZi1rWFAybmJLOU5SM3RTLWs?oc=5",
+   "domain": "realassets.ipe.com",
+   "seendate": "Tue, 20 Jan 2026 08:00:00 GMT",
+   "source": "IPE Real Assets",
+   "language": "en-GB",
+   "sourcecountry": "MT",
+   "name_match": "exact",
+   "original_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQSmRoWHc3UmNLWXdRTWJId1F6a1ZmaUJ5VnBGam9tdzFfem5YVXp3dXk1RzlCdDdwM1ZQZUx0UkpsLUx5UmVkZm1KTTQ1b1ViSjZReEoyZ0xPX0xibmlpbXo3czJVV1I1eEtIRlFEaV9rQVlqWXlpOFhlTWpHZDhycXVBS1owclc1SllHTHVkZXNuMzQzQ2ZKdHhLZi1rWFAybmJLOU5SM3RTLWs?oc=5",
+   "resolved_url": "https://realassets.ipe.com/news/ihi-sells-72-stake-in-corinthia-hotel-lisbon-to-orion-fund/10134663.article",
+   "url_status": "resolved",
+   "http_status": 200,
+   "months_ago": 8
+  },
+  {
+   "title": "Orion and Corinthia form joint venture to buy Corinthia Hotel Lisbon - Hospitality Investor",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQenlUTm5KTmJLbUh5X3NvYWdLWjRGZ0pYelQzRTlqcktJTWtDTmZicHpCSVJoODlpSlM4a3ZoZ2hUU1BTeEk4OHRnb0h6Y2xSQ1ZKX2NPalNRM2lFdk81dUtHNGdiaFFNZm1FYzlmSm9DMl9jNl9hVm5KZ093UGhJT1ItVUdRMFFKRVBGci1YNkZZcHhDWTZRVkNHYmNNaGEtUC1WdVZTdy1PZjZBMmt0cW1R?oc=5",
+   "domain": "www.hospitalityinvestor.com",
+   "seendate": "Tue, 20 Jan 2026 08:00:00 GMT",
+   "source": "Hospitality Investor",
+   "language": "en-GB",
+   "sourcecountry": "MT",
+   "name_match": "exact",
+   "original_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQenlUTm5KTmJLbUh5X3NvYWdLWjRGZ0pYelQzRTlqcktJTWtDTmZicHpCSVJoODlpSlM4a3ZoZ2hUU1BTeEk4OHRnb0h6Y2xSQ1ZKX2NPalNRM2lFdk81dUtHNGdiaFFNZm1FYzlmSm9DMl9jNl9hVm5KZ093UGhJT1ItVUdRMFFKRVBGci1YNkZZcHhDWTZRVkNHYmNNaGEtUC1WdVZTdy1PZjZBMmt0cW1R?oc=5",
+   "resolved_url": "https://www.hospitalityinvestor.com/investment/orion-and-corinthia-form-joint-venture-buy-corinthia-hotel-lisbon",
+   "url_status": "resolved",
+   "http_status": 200,
+   "months_ago": 8
+  },
+  {
+   "title": "For Its First Stay in Italy, Corinthia Hotels Reinvents a Neoclassical Roman Palazzo - surfacemag.com",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE0ySGVOWEo2Z2w2UVRoaVhZeUFCRkRCMXUybVhWTjV4N3RGY0FJMFdqa045bldhRFNuMzZGTk5wN2tHUEhKcTdWQ0V1ZEhJZG1PRW9YQ3plNGxFSnlOS1ZKMzU4WmREZlB0dG1wV3lYeTZteVktLXNCcl9B?oc=5",
+   "domain": "www.surfacemag.com",
+   "seendate": "Wed, 25 Mar 2026 07:00:00 GMT",
+   "source": "surfacemag.com",
+   "language": "en-GB",
+   "sourcecountry": "MT",
+   "name_match": "exact",
+   "original_url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE0ySGVOWEo2Z2w2UVRoaVhZeUFCRkRCMXUybVhWTjV4N3RGY0FJMFdqa045bldhRFNuMzZGTk5wN2tHUEhKcTdWQ0V1ZEhJZG1PRW9YQ3plNGxFSnlOS1ZKMzU4WmREZlB0dG1wV3lYeTZteVktLXNCcl9B?oc=5",
+   "resolved_url": "https://www.surfacemag.com/articles/opening-shot-corinthia-rome-hotel/",
+   "url_status": "resolved",
+   "http_status": 200,
+   "months_ago": 6
+  },
+  {
+   "title": "Corinthia resort coming to Italy's Lake Como - Travel Weekly",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPeXlOTmt3ZS1wbXVBc3NkR1pfMjZiSWJJN3ljZVNEdlVUZXhpLW5aVFplQURFek9QS2VUbS1OalFYOXVaZ21Qem9YTlhkTUwtYWN4NHVEX3BTeDZKN1lrTWJ4ZVlMMEQ2WmZ4NWFUMmduYlBhR2txX010eW1nQXRrZUd0Y0xsNThVSW15OW5rd3ZDY0tUZS1FSGlVQ3RQblk?oc=5",
+   "domain": "www.travelweekly.com",
+   "seendate": "Tue, 10 Feb 2026 08:00:00 GMT",
+   "source": "Travel Weekly",
+   "language": "en-GB",
+   "sourcecountry": "MT",
+   "name_match": "exact",
+   "original_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPeXlOTmt3ZS1wbXVBc3NkR1pfMjZiSWJJN3ljZVNEdlVUZXhpLW5aVFplQURFek9QS2VUbS1OalFYOXVaZ21Qem9YTlhkTUwtYWN4NHVEX3BTeDZKN1lrTWJ4ZVlMMEQ2WmZ4NWFUMmduYlBhR2txX010eW1nQXRrZUd0Y0xsNThVSW15OW5rd3ZDY0tUZS1FSGlVQ3RQblk?oc=5",
+   "resolved_url": "https://www.travelweekly.com/Travel-News/Hotel-News/Corinthia-Hotels-plans-new-resort-in-Lake-Como",
+   "url_status": "resolved",
+   "http_status": 403,
+   "months_ago": 7
+  },
+  {
+   "title": "Latest news: Highline buys in Dallas; Miami foreclosure; Leela dives into wellness - Hotel Investment Today",
+   "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNTUdNbmd2NG81dTdkdWplNjdzWDRMZEliQ2pZd2llZEZ1RExLeEZJZm5pZDVKMWNGX25kOXpIRVBBUUhzU1VTakR0OVhrdjRjQmU1QUU2ZDZCeDVQT1dGSkxQdlNCZ0hWYnhVaVJ0ZHNVd1lnellWanhsSmNRaTJEU3hKTVpQOU5SdmdxTlptRmZIMF9VWVV4MnIyaDJCbUdnNGxUS3R6STRaQ1lVSDJFeGtDNkhSN1p3OWVZNFNhS0hncWNUREtCWDQ0VW9wR0x2WHpfQU9nUUE0Mjh6VVdNdA?oc=5",
+   "domain": "www.hotelinvestmenttoday.com",
+   "seendate": "Tue, 17 Mar 2026 07:00:00 GMT",
+   "source": "Hotel Investment Today",
+   "language": "en-GB",
+   "sourcecountry": "MT",
+   "name_match": "none",
+   "resolved_url": null,
+   "url_status": "redirect_unresolved",
+   "http_status": null,
+   "original_url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNTUdNbmd2NG81dTdkdWplNjdzWDRMZEliQ2pZd2llZEZ1RExLeEZJZm5pZDVKMWNGX25kOXpIRVBBUUhzU1VTakR0OVhrdjRjQmU1QUU2ZDZCeDVQT1dGSkxQdlNCZ0hWYnhVaVJ0ZHNVd1lnellWanhsSmNRaTJEU3hKTVpQOU5SdmdxTlptRmZIMF9VWVV4MnIyaDJCbUdnNGxUS3R6STRaQ1lVSDJFeGtDNkhSN1p3OWVZNFNhS0hncWNUREtCWDQ0VW9wR0x2WHpfQU9nUUE0Mjh6VVdNdA?oc=5",
+   "months_ago": 6
+  },
+  {
+   "title": "Corinthia Hotels Appoints Peter Roth as President, Hotel Operations - Hospitality & Catering News",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxONFNhcG9TSThvd0VOQkNEZ2VxOUtuSGQyYUI5SVNZdEdyZm9PWDZ4eDFfRnZ3UVVNMEZEVUlfdHpka095NG9LZUFrM1hZZTRHTk83ZUlrOGFLTDBvUy02TTl6cENVZzhqTEw3ZGRJUlhrVTBVM2lacnBBRWRBamU4R1JjTzFIQWQ5N1RfZlJIdlI5bkVsV2YtUWZGQUZzWDBQRXNmdUpvZFRScnpzQ3FKRllWTTlXRnUyQ2c?oc=5",
+   "domain": "www.hospitalityandcateringnews.com",
+   "seendate": "Wed, 01 Jul 2026 07:00:00 GMT",
+   "source": "Hospitality & Catering News",
+   "language": "en-GB",
+   "sourcecountry": "MT",
+   "name_match": "exact",
+   "original_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxONFNhcG9TSThvd0VOQkNEZ2VxOUtuSGQyYUI5SVNZdEdyZm9PWDZ4eDFfRnZ3UVVNMEZEVUlfdHpka095NG9LZUFrM1hZZTRHTk83ZUlrOGFLTDBvUy02TTl6cENVZzhqTEw3ZGRJUlhrVTBVM2lacnBBRWRBamU4R1JjTzFIQWQ5N1RfZlJIdlI5bkVsV2YtUWZGQUZzWDBQRXNmdUpvZFRScnpzQ3FKRllWTTlXRnUyQ2c?oc=5",
+   "resolved_url": "https://www.hospitalityandcateringnews.com/2026/07/corinthia-hotels-appoints-peter-roth-as-president-hotel-operations/",
+   "url_status": "resolved",
+   "http_status": 200,
+   "months_ago": 2
+  },
+  {
+   "title": "Alo Yoga strikes warrior pose with $90M Beverly Hills HQ buy - The Real Deal",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNX3FRcHhiTWRYdE5zclh0SUtHeXF1Z3kyMERwakZTbldaVk1vN0E2RUlXTjZ4cnUzaDloZXRnaDhPY0ZNMHZEQ3VwYVQzdjlnSWU0UjlzaS1RcHQ3Mno1SnQ1NmtBWE5BLTA0cXhWZG9NSFhGd0dwcEVaOVI2LXpaUmZNNW1mNlZMX283R3NJbWpjVzlCVUxNVnBKYUs1eERP?oc=5",
+   "domain": "therealdeal.com",
+   "seendate": "Mon, 24 Nov 2025 08:00:00 GMT",
+   "source": "The Real Deal",
+   "language": "en-GB",
+   "sourcecountry": "MT",
+   "name_match": "none",
+   "resolved_url": null,
+   "url_status": "redirect_unresolved",
+   "http_status": null,
+   "original_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNX3FRcHhiTWRYdE5zclh0SUtHeXF1Z3kyMERwakZTbldaVk1vN0E2RUlXTjZ4cnUzaDloZXRnaDhPY0ZNMHZEQ3VwYVQzdjlnSWU0UjlzaS1RcHQ3Mno1SnQ1NmtBWE5BLTA0cXhWZG9NSFhGd0dwcEVaOVI2LXpaUmZNNW1mNlZMX283R3NJbWpjVzlCVUxNVnBKYUs1eERP?oc=5",
+   "months_ago": 10
+  },
+  {
+   "title": "HVS Europe Hotel Transactions Bulletin - Week Ending 23 January 2026 - Hospitality Net",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQSmk4RjJDR05ENWpjdU1ZVkxyRDNRcWtOeGlsZy1yYlY0bl9oVHdSdVFsclBPdWI3bUhTTEt0TXFQMTdxWldfZ3RVTnRMaDcwN3FGLUtvYjBMOW1QNXpGRnpVVlotQWNUQWloY2VsNTNqOWlKUTRfNVRYdVZCeEdWaXFMMlNkaVZhSG9OY1BYRlhpTHZ2X1pQR2FWYUJHTU1BTmtSeGdCVWRGVHpqNlhn?oc=5",
+   "domain": "www.hospitalitynet.org",
+   "seendate": "Tue, 27 Jan 2026 08:00:00 GMT",
+   "source": "Hospitality Net",
+   "language": "en-GB",
+   "sourcecountry": "MT",
+   "name_match": "none",
+   "resolved_url": null,
+   "url_status": "redirect_unresolved",
+   "http_status": null,
+   "original_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQSmk4RjJDR05ENWpjdU1ZVkxyRDNRcWtOeGlsZy1yYlY0bl9oVHdSdVFsclBPdWI3bUhTTEt0TXFQMTdxWldfZ3RVTnRMaDcwN3FGLUtvYjBMOW1QNXpGRnpVVlotQWNUQWloY2VsNTNqOWlKUTRfNVRYdVZCeEdWaXFMMlNkaVZhSG9OY1BYRlhpTHZ2X1pQR2FWYUJHTU1BTmtSeGdCVWRGVHpqNlhn?oc=5",
+   "months_ago": 8
+  }
+ ],
+ "job_ads": [],
+ "finance_role_counts": {},
+ "grounded_claims": [
+  {
+   "claim_type": "system_in_use",
+   "statement": "Corinthia Hotels specifies that finance management roles require experience with accounting software including SUN Accounts, ADACO, and Opera.",
+   "value": "SUN Accounts / Infor SunSystems",
+   "date": null,
+   "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGRUeaykz2JsF5deZL-T1NDvkH38q6RY32OFpT61VpvmRJUvARWYcOLxKfvdaPKNZtfpolCkbaAV_BMD7s6x8rtVij0mK-Em89r2hgmOx2YfTzF94GqG8ngx2_3EbLLln8q2Zy1bITVR57HOL0JlsFeq0KwCQcNJ7P_0OCexXyXxTlh6bN7",
+   "source_title": "Finance Manager - Corinthia Hotels",
+   "source": "grounded_search",
+   "original_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGRUeaykz2JsF5deZL-T1NDvkH38q6RY32OFpT61VpvmRJUvARWYcOLxKfvdaPKNZtfpolCkbaAV_BMD7s6x8rtVij0mK-Em89r2hgmOx2YfTzF94GqG8ngx2_3EbLLln8q2Zy1bITVR57HOL0JlsFeq0KwCQcNJ7P_0OCexXyXxTlh6bN7",
+   "resolved_url": "https://www.corinthia.com/en-gb/careers/current-vacancies/malta/finance-manager/",
+   "url_status": "resolved",
+   "http_status": 200
+  },
+  {
+   "claim_type": "system_in_use",
+   "statement": "Corinthia selected Infor SunSystems as its financial and accounting system, integrating with the Opera hotel system and electronic banking.",
+   "value": "Infor SunSystems",
+   "date": null,
+   "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFjDsK4tkkcRplRe7UjFpMfqqvq-K7BQV-DXuWVBF1fhT0AqXPipWtTuXr_JyZhiLuf4j-DGiuNYG-lMKi4vtc0eK8Zxtr-KnD1TkSHByHiruv3MXEojIr5HAcvlrQqh_Z3WmySeFxoz1l5spzVKS2_",
+   "source_title": "SunSystems implementation at Corinthia | LLP Group",
+   "source": "grounded_search",
+   "original_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFjDsK4tkkcRplRe7UjFpMfqqvq-K7BQV-DXuWVBF1fhT0AqXPipWtTuXr_JyZhiLuf4j-DGiuNYG-lMKi4vtc0eK8Zxtr-KnD1TkSHByHiruv3MXEojIr5HAcvlrQqh_Z3WmySeFxoz1l5spzVKS2_",
+   "resolved_url": "https://www.llpgroup.com/case-studies/corinthia-case-study/",
+   "url_status": "resolved",
+   "http_status": 200
+  },
+  {
+   "claim_type": "leadership_change",
+   "statement": "Alberto Ramos serves as Chief Financial Officer of Corinthia Hotels, responsible for leading the finance team and driving financial strategy.",
+   "value": "Alberto Ramos",
+   "date": null,
+   "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFbo7P8cSgDuT9ZuzFBa-Tv22o0WDmCaYJwf_0yJdOk8nVbViEGQqbCvKjihF-BLXzqluJf7F6OL6GRR982o0aNGn4YpEpWOEQawl-uZXvMOhMQAkjsS8jSroNm6uBj",
+   "source_title": "Our Team - Corinthia Hotels",
+   "source": "grounded_search",
+   "original_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFbo7P8cSgDuT9ZuzFBa-Tv22o0WDmCaYJwf_0yJdOk8nVbViEGQqbCvKjihF-BLXzqluJf7F6OL6GRR982o0aNGn4YpEpWOEQawl-uZXvMOhMQAkjsS8jSroNm6uBj",
+   "resolved_url": "https://www.corinthia.com/en-gb/our-team/",
+   "url_status": "resolved",
+   "http_status": 200
+  },
+  {
+   "claim_type": "leadership_change",
+   "statement": "Michael Izzo, former Chief Financial Officer of Corinthia Hotels Limited, was named Group Chief Strategy Officer at IHI.",
+   "value": "Michael Izzo",
+   "date": "2024-04",
+   "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEh_1menwTj4y5pvYNbjatCRPSeHf_TZ20nB8uUpvOlwjWzyI1gcz-xQN55bXfqViLJdheKK8pun7pkqUxHwwT9LooNH90MIX2pQB0u5xfGVS8TKbkZh6aogqNmoNxnsIKKqlW3Wr0neFaqcUz95Y25uLy4sA==",
+   "source_title": "The Strategy Visionary: Michael Izzo - Corinthia Group",
+   "source": "grounded_search",
+   "original_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEh_1menwTj4y5pvYNbjatCRPSeHf_TZ20nB8uUpvOlwjWzyI1gcz-xQN55bXfqViLJdheKK8pun7pkqUxHwwT9LooNH90MIX2pQB0u5xfGVS8TKbkZh6aogqNmoNxnsIKKqlW3Wr0neFaqcUz95Y25uLy4sA==",
+   "resolved_url": "https://corinthiagroup.com/the-strategy-visionary-michael-izzo/",
+   "url_status": "resolved",
+   "http_status": 200
+  }
+ ],
+ "counters": {
+  "articles_retrieved": 10,
+  "articles_matched": 7,
+  "articles_unmatched": 3,
+  "urls_resolved": 7,
+  "match_rate": 0.7,
+  "needs_review": false,
+  "job_ads": 0,
+  "grounded_claims": 4
+ }
+}

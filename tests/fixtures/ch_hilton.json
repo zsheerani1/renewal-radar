@@ -1,0 +1,166 @@
+{
+ "query": "Hilton",
+ "status": "ok",
+ "candidates": [
+  {
+   "company_number": "06259848",
+   "title": "HILTON LIMITED",
+   "company_status": "active",
+   "company_type": "ltd",
+   "date_of_creation": "2007-05-25",
+   "address": "Unit 2, Raynham Road, Bishop's Stortford, Hertfordshire, CM23 5PJ"
+  },
+  {
+   "company_number": "01434653",
+   "title": "HILTON ABBEY LIMITED",
+   "company_status": "active",
+   "company_type": "ltd",
+   "date_of_creation": "1979-07-04",
+   "address": "St Georges Hall, Westcombe Hill, Greenwich, London, SE10 0LH"
+  },
+  {
+   "company_number": "04120968",
+   "title": "HILTON ABBEY DECORATING CONTRACTORS LIMITED",
+   "company_status": "active",
+   "company_type": "ltd",
+   "date_of_creation": "2000-12-07",
+   "address": "St Georges Hall, Westcombe Hill, Greenwich, London, SE10 0LH"
+  },
+  {
+   "company_number": "04422036",
+   "title": "HILTON ABBEY (HOLDINGS) LIMITED",
+   "company_status": "active",
+   "company_type": "ltd",
+   "date_of_creation": "2002-04-22",
+   "address": "St Georges Hall, Westcombe Hill, Greenwich, London, SE10"
+  },
+  {
+   "company_number": "14378711",
+   "title": "HILTON AMES LTD",
+   "company_status": "active",
+   "company_type": "ltd",
+   "date_of_creation": "2022-09-27",
+   "address": "Clyst House, Winslade Park Manor Drive, Clyst St. Mary, Exeter, England, EX5 1FY"
+  },
+  {
+   "company_number": "15614697",
+   "title": "HILTON AMES (CORNWALL) LTD",
+   "company_status": "dissolved",
+   "company_type": "ltd",
+   "date_of_creation": "2024-04-03",
+   "address": "21 Angel Hill, Tiverton, England, EX16 6PE"
+  },
+  {
+   "company_number": "15367447",
+   "title": "HILTON AMES (SOMERSET) LTD",
+   "company_status": "active",
+   "company_type": "ltd",
+   "date_of_creation": "2023-12-21",
+   "address": "Unit 13 Station Yard, Wellington Road, Bridgwater, Somerset, England, TA6 5HA"
+  },
+  {
+   "company_number": "09216900",
+   "title": "HILTON & BLACKMORE LTD",
+   "company_status": "active",
+   "company_type": "ltd",
+   "date_of_creation": "2014-09-15",
+   "address": "1 Grenville Avenue, Walton-Le-Dale, Preston, Lancashire, PR5 4UA"
+  },
+  {
+   "company_number": "07555595",
+   "title": "HILTON & CO ACCOUNTANTS LTD",
+   "company_status": "active",
+   "company_type": "ltd",
+   "date_of_creation": "2011-03-08",
+   "address": "33/34 High Street, Bridgnorth, England, WV16 4DB"
+  },
+  {
+   "company_number": "05002026",
+   "title": "HILTON & FOX LIMITED",
+   "company_status": "active",
+   "company_type": "ltd",
+   "date_of_creation": "2003-12-23",
+   "address": "Kd Associates Accountants, Business Advisers & Registered, Auditors 72 Wembley Park Drive, Wembley Middlesex, HA9 8HB"
+  },
+  {
+   "company_number": "08624687",
+   "title": "HILTON & FOX (HARROW) LIMITED",
+   "company_status": "active",
+   "company_type": "ltd",
+   "date_of_creation": "2013-07-25",
+   "address": "248 Church Lane, Kingsbury, London, NW9 8SL"
+  },
+  {
+   "company_number": "12074307",
+   "title": "HILTON & HENDERSON PROPERTY SERVICES LTD",
+   "company_status": "active",
+   "company_type": "ltd",
+   "date_of_creation": "2019-06-28",
+   "address": "65 Becket Avenue, London, England, E6 6AE"
+  },
+  {
+   "company_number": "07537253",
+   "title": "HILTON & HILTON LIMITED",
+   "company_status": "active",
+   "company_type": "ltd",
+   "date_of_creation": "2011-02-21",
+   "address": "Woodbine Farm Business Centre Truro Business Park, Threemilestone, Truro, Cornwall, England, TR3 6BW"
+  },
+  {
+   "company_number": "11045358",
+   "title": "HILTON AND HILTON HOMES LTD",
+   "company_status": "active",
+   "company_type": "ltd",
+   "date_of_creation": "2017-11-02",
+   "address": "70 Market Street, Tottington, Bury, United Kingdom, BL8 3LJ"
+  },
+  {
+   "company_number": "14336083",
+   "title": "HILTON & HOPEWELL LIMITED",
+   "company_status": "active",
+   "company_type": "ltd",
+   "date_of_creation": "2022-09-05",
+   "address": "19 Warren Park Way, Enderby, Leicester, England, LE19 4SA"
+  },
+  {
+   "company_number": "08830264",
+   "title": "HILTON & HORSFALL LTD",
+   "company_status": "active",
+   "company_type": "ltd",
+   "date_of_creation": "2014-01-03",
+   "address": "75 Gisburn Road, Barrowford, Nelson, Lancashire, BB9 6DX"
+  },
+  {
+   "company_number": "06082792",
+   "title": "HILTON & HORSFALL LETTINGS LIMITED",
+   "company_status": "active",
+   "company_type": "ltd",
+   "date_of_creation": "2007-02-05",
+   "address": "75 Gisburn Road, Barrowford, Nelson, England, BB9 6DX"
+  },
+  {
+   "company_number": "06993508",
+   "title": "HILTON & HORSFALL SALES LIMITED",
+   "company_status": "active",
+   "company_type": "ltd",
+   "date_of_creation": "2009-08-18",
+   "address": "75 Gisburn Road, Barrowford, Nelson, England, BB9 6DX"
+  },
+  {
+   "company_number": "13152632",
+   "title": "HILTON & HORSFALL SALES (RV) LTD",
+   "company_status": "active",
+   "company_type": "ltd",
+   "date_of_creation": "2021-01-22",
+   "address": "75 Gisburn Road, Barrowford, Lancashire, England, BB9 6DX"
+  },
+  {
+   "company_number": "05979672",
+   "title": "HILTON & HUMPHREY ASSOCIATES LIMITED",
+   "company_status": "active",
+   "company_type": "ltd",
+   "date_of_creation": "2006-10-26",
+   "address": "2 Hunters Building, Bowesfield Lane, Stockton, Cleveland, TS18 3QZ"
+  }
+ ]
+}
