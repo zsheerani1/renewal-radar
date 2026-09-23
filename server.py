@@ -1,13 +1,9 @@
-"""Starlette backend for the web front end.
-
-Three routes: upload a workbook, stream results as each account completes, download
-the amended file. All the real work lives in the modules this imports.
-"""
 
 import io
 import json
 import re
 import uuid
+import os
 from concurrent.futures import ThreadPoolExecutor, as_completed
 from pathlib import Path
 
